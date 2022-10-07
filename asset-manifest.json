@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/gargabe-measuring-tool/static/css/main.073c9b0a.css",
-    "main.js": "/gargabe-measuring-tool/static/js/main.cdeeda19.js",
+    "main.css": "/gargabe-measuring-tool/static/css/main.e6c13ad2.css",
+    "main.js": "/gargabe-measuring-tool/static/js/main.ef1c1cbe.js",
     "static/js/787.a9acece4.chunk.js": "/gargabe-measuring-tool/static/js/787.a9acece4.chunk.js",
-    "static/media/logo.svg": "/gargabe-measuring-tool/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/wall-e_background.jpg": "/gargabe-measuring-tool/static/media/wall-e_background.4e786fa7751630e574f0.jpg",
     "index.html": "/gargabe-measuring-tool/index.html",
-    "main.073c9b0a.css.map": "/gargabe-measuring-tool/static/css/main.073c9b0a.css.map",
-    "main.cdeeda19.js.map": "/gargabe-measuring-tool/static/js/main.cdeeda19.js.map",
+    "main.e6c13ad2.css.map": "/gargabe-measuring-tool/static/css/main.e6c13ad2.css.map",
+    "main.ef1c1cbe.js.map": "/gargabe-measuring-tool/static/js/main.ef1c1cbe.js.map",
     "787.a9acece4.chunk.js.map": "/gargabe-measuring-tool/static/js/787.a9acece4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.cdeeda19.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ef1c1cbe.js"
   ]
 }
